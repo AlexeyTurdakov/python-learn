@@ -15,5 +15,16 @@ mes3 = f"{mes.lower()}{mes1.upper()}"
 
 print(mes3.title())
 
+print(1_000_000_000)
+
+x, y, z = 0, 1, 2
+
+print(x,y,z) 
+
+#------------------coment
+
+import this 
+
+
 
 
