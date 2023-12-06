@@ -20,7 +20,15 @@ print(pop_method)
 
 gosts = ['egy', 'rog']
 
-deleteGosts = gosts.pop(0)
-print(gosts, deleteGosts)
+#deleteGosts = gosts.pop(0)
+#print(gosts, deleteGosts)
+
+gosts.sort()
+gosts.sort(reverse=True)
+
+print(gosts)
+
+#Временная сортировка списка функцией sorted()
+
 
 
